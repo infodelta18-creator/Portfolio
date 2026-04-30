@@ -2,7 +2,7 @@ export default [
     {
         name: "Color Scheme Generator",
         desc: "",
-        codepen: "https://codepen.io/Vivekp1118/full/yLqZZKo",
+        codepen: "https://linkin.bio/netlivy",
         liveUrl: "",
         image:"/Color-Scheme-Generator.jpg",
         url: ""
@@ -11,14 +11,14 @@ export default [
         name: "Anime Invitation",
         desc: "",
         image:"/Anime-Invitation.jpg",
-        codepen: "https://codepen.io/Vivekp1118/liive/ExpwXxK",
+        codepen: "https://linkin.bio/netlivy",
         liveUrl: "",
         url: ""
     },
     {
         name: "Restaurant app",
         desc: "",
-        codepen: "https://codepen.io/Vivekp1118/full/MWBEbRN",
+        codepen: "https://linkin.bio/netlivy",
         liveUrl: "",
         image:"/Restaurant-app.jpg",
         url: ""
@@ -26,7 +26,7 @@ export default [
     {
         name: "Annoying Cookie",
         desc: "",
-        codepen: "https://codepen.io/Vivekp1118/live/BaVjBao",
+        codepen: "https://linkin.bio/netlivy",
         liveUrl: "",
         image:"/Annoying-Cookie.jpg",
         url: ""
@@ -34,7 +34,7 @@ export default [
     {
         name: "InstagramClone Oldagram",
         desc: "",
-        codepen: "https://codepen.io/Vivekp1118/full/JjvgQrm",
+        codepen: "https://linkin.bio/netlivy",
         liveUrl: "",
         image:"/InstagramClone-Oldagram.jpg",
         url: ""
@@ -42,7 +42,7 @@ export default [
     {
         name: "NFT aka JPEGs",
         desc: "",
-        codepen: "https://codepen.io/Vivekp1118/live/YzLmrOJ",
+        codepen: "https://linkin.bio/netlivy",
         liveUrl: "",
         image:"/NFT-aka-JPEGs.jpg",
         url: ""
@@ -50,7 +50,7 @@ export default [
     {
         name: "Unit Converter",
         desc: "",
-        codepen: "https://codepen.io/Vivekp1118/live/MWGdZaM",
+        codepen: "https://linkin.bio/netlivy",
         liveUrl: "",
         image:"/Unit-Converter.jpg",
         url: ""
@@ -58,7 +58,7 @@ export default [
     {
         name: "Password Generator",
         desc: "",
-        codepen: "https://codepen.io/Vivekp1118/live/KKREVdd",
+        codepen: "https://linkin.bio/netlivy",
         liveUrl: "",
         image:"/Password-Generator.jpg",
         url: ""
@@ -66,7 +66,7 @@ export default [
     {
         name: "Black Jack Game",
         desc: "",
-        codepen: "https://codepen.io/Vivekp1118/live/LYmgJRw",
+        codepen: "https://linkin.bio/netlivy",
         liveUrl: "",
         image:"/BlackJack-Game.jpg",
         url: ""
@@ -74,7 +74,7 @@ export default [
     {
         name: "Basketball Scoreboard",
         desc: "",
-        codepen: "https://codepen.io/Vivekp1118/live/YzLOOVG",
+        codepen: "https://linkin.bio/netlivy",
         liveUrl: "",
         image:"/Basketball-Scoreboard.jpg",
         url: ""
