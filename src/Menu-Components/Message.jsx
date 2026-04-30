@@ -52,7 +52,7 @@ function Message() {
         </div>
       )}
       <div className="message-footer">
-        Designed & Developed by Vivek Prajapati
+        Designed & Developed by Netlivy
       </div>
       <Menu />
       <PageScroller />
