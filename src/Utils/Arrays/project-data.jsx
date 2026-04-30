@@ -2,28 +2,28 @@ export default [
     {
         name: "Quizzical",
         desc: "Test your knowledge with our fun quiz!",
-        url: "https://github.com/vivekp1118/Quizzical",
-        liveUrl: "https://quizzical-pursuit.netlify.app/",
+        url: "https://linkin.bio/netlivy",
+        liveUrl: "https://linkin.bio/netlivy",
         image: "/Quizzical.jpg"
     },
     {
         name: "CineTrack",
         desc: "Platform where you can keep a record of what you want to watch.",
-        url: "https://github.com/vivekp1118/CineTrack",
-        liveUrl: "https://vivekp1118.github.io/CineTrack/",
+        url: "https://linkin.bio/netlivy",
+        liveUrl: "https://linkin.bio/netlivy",
         image: "/CineTrack.jpg"
     },
     {
         name: "Tenzies",
         desc: "A fun dice game that you can play",
-        url: "https://github.com/vivekp1118/Tenzies",
-        liveUrl: "https://tenziess-game.netlify.app/",
+        url: "https://linkin.bio/netlivy",
+        liveUrl: "https://linkin.bio/netlivy",
         image: "/tenziess.jpg"
     },
     {
         name: "ATM-MACHINE",
         desc: "Java Appplication which replicates real world ATM",
-        url: "https://github.com/vivekp1118/ATM-MACHINE",
+        url: "https://linkin.bio/netlivy",
         liveUrl: "",
         image: "/ATM.jpg"
 
@@ -31,23 +31,23 @@ export default [
     {
         name: "TinDog",
         desc: "Tinder Clone Just But Not for You",
-        url: "https://github.com/vivekp1118/TinDog",
-        liveUrl: "https://vivekp1118.github.io/TinDog/",
+        url: "https://linkin.bio/netlivy",
+        liveUrl: "https://linkin.bio/netlivy",
         image: "/TinDog.jpg"
 
     },
     {
         name: "Advance HealthCal",
         desc: "Find your Ideal weight,Calorie to gain and lose weight and much more",
-        url: "https://github.com/vivekp1118/Project-Bmi_BMR",
-        liveUrl: "https://bmi-calculator001.000webhostapp.com/",
+        url: "https://linkin.bio/netlivy",
+        liveUrl: "https://linkin.bio/netlivy",
         image: "/bmi.jpg"
     },
     {
         name: "Srki.tk",
         desc: "A website that was made for collage students for providing notes and assignments",
-        url: "https://github.com/vivekp1118/Srki.tk",
-        liveUrl: "https://vivekp1118.github.io/Srki.tk/",
+        url: "https://linkin.bio/netlivy",
+        liveUrl: "https://linkin.bio/netlivy",
         image: "/Srki.jpg"
     },
 ]
