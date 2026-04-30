@@ -34,7 +34,7 @@ function HireMe() {
                         I research, create, and design to meet your needs and goals.
                     </span>
                 </p>
-                <a className="mail-me-btn" href="mailto:vivekprajapati9986@yahoo.com">We are One Click Away <i class="fa-solid fa-arrow-right-long"></i></a>
+                <a className="mail-me-btn" href="mailto:netlivyteam@gmail.com">We are One Click Away <i class="fa-solid fa-arrow-right-long"></i></a>
             </div>
            {interactionActive && <div
                 className="hire-me-interaction interaction-card"
