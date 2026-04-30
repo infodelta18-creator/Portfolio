@@ -36,7 +36,7 @@ export function Card({data,type}){
             </div>
           </div>
           <div className="card-links card-footer h-90">
-            {currentProject.url && <span className="github-icon-card"><i class="fa-brands fa-github"></i> <a href={currentProject.url} target="blank" className="footer-icon-text">Github</a></span>}
+            {currentProject.url && <span className="github-icon-card"><i class="fa-brands fa-instagram"></i> <a href={currentProject.url} target="blank" className="footer-icon-text">Instagram</a></span>}
             {currentProject.liveUrl && <span><i class="fa-solid fa-earth-asia"></i> <a href={currentProject.liveUrl} target="blank" className="footer-icon-text">Live</a></span>}
             {currentProject.codepen && <span><i class="fa-brands fa-codepen"></i> <a href={currentProject.codepen} target="blank" className="footer-icon-text">Codepen</a></span>}
           </div>
