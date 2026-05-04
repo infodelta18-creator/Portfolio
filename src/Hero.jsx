@@ -11,8 +11,8 @@ export default function Hero(){
     const {answerBoxOpen} = useContext(AnswerBoxContext);
     return(
        <div className="hero-container">
-            {!isMobile ? <div className="header">I'm Netlivy team. Creative Technologist.</div> :
-            <div className="typography-self">I'm Netlivy team. <br/>Creative Technologist.</div>
+            {!isMobile ? <div className="header"></div> :
+            <div className="typography-self"><br/>Creative Technologist.</div>
             }
             <div className="logo-self"></div>
             {!isMobile && <div className="logo-block"></div>}
